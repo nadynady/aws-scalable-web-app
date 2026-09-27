@@ -40,8 +40,4 @@ This project presents a production-grade, highly available, and auto-scaling web
 - **Failover Validation**: Initiated manual failover on the primary RDS instance; traffic failed over to the standby node seamlessy.
 - **Auto Scaling Trigger**: Simulated CPU spikes using `stress` utility to trigger scale-out policies.
 
----
 
-## 📹 Live Demo
-- **App URL**: `http://your-cloudfront-domain.cloudfront.net`
-- **Video Walkthrough**: [Link to YouTube/Loom Video]
